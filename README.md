@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ajaykumar ks
+Hi there! 👋 I'm Ajaykumar KS.
 ====================================================================================================================================
 
-web developer and designer
+Full-Stack Web Application Developer and Designer
 --------------------------
 
 I am a passionate and versatile full-stack web application developer and designer, skilled in building user-friendly and efficient web solutions. Currently, I specialize in PHP, jQuery, React.js, and Spring Boot, creating dynamic, responsive, and scalable web applications.
