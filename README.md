@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 web developer and designer
 --------------------------
 
-currently im working with php framework codeigniter 4 and i shortly move on to java
+I am a passionate and versatile full-stack web application developer and designer, skilled in building user-friendly and efficient web solutions. Currently, I specialize in PHP, jQuery, React.js, and Spring Boot, creating dynamic, responsive, and scalable web applications.
 
 * 🌍  I'm based in india
 * 🖥️  See my portfolio at [linked-in](http://www.linkedin.com/in/ajaykumarks)
