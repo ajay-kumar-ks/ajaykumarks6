@@ -8,7 +8,8 @@ I am a passionate and versatile full-stack web application developer and designe
 
 * 🌍  I'm based in india
 * 🖥️  See my portfolio at [linked-in](http://www.linkedin.com/in/ajaykumarks)
-* ✉️  You can contact me at [Gmail](mailto:ksrekuttan@gmail.com)
+* ✉️  You can contact me via [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=ksrekuttan@gmail.com)
+
 * 🧠  I'm learning go lang,python
 * 🤝  I'm open to collaborating on websites , machine learing
 
