@@ -7,9 +7,9 @@ web developer and designer
 currently im working with php framework codeigniter 4 and i shortly move on to java
 
 * 🌍  I'm based in india
-* 🖥️  See my portfolio at [linked-in](http://www.linkedin.com/in/ajay-ks-1b39a0270)
+* 🖥️  See my portfolio at [linked-in](http://www.linkedin.com/in/ajaykumarks)
 * ✉️  You can contact me at [ksrekuttan@gmail.com](mailto:ksrekuttan@gmail.com)
-* 🧠  I'm learning swing,python
+* 🧠  I'm learning go lang,python
 * 🤝  I'm open to collaborating on websites , machine learing
 
 ### Skills
